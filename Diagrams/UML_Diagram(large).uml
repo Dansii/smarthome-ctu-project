@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>cz.cvut.fel.omo.SmartHome</OriginalElement>
+  <nodes>
+    <node x="1192.8955749174256" y="8351.5">cz.cvut.fel.omo.SmartHome.devices.action.common.Electromobile</node>
+    <node x="3622.4551493855115" y="7579.5">cz.cvut.fel.omo.SmartHome.devices.action.states.ActionDeviceBrokenState</node>
+    <node x="9680.867176198411" y="2303.0">cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDevice</node>
+    <node x="10899.30974376598" y="5888.0">cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.states.OutsideBlindsUpState</node>
+    <node x="3014.6010586722086" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.common.CoffeeMachine</node>
+    <node x="3738.8248010600432" y="8899.0">cz.cvut.fel.omo.SmartHome.factory.HomeFactory</node>
+    <node x="7152.54799267703" y="5250.0">cz.cvut.fel.omo.SmartHome.report.ActivityAndUsageReport</node>
+    <node x="4360.969432238668" y="1021.0">cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice</node>
+    <node x="11509.0975381117" y="5642.0">cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.states.InsideBlindsOffState</node>
+    <node x="9145.495381326618" y="4046.0">cz.cvut.fel.omo.SmartHome.devices.AbstractDevice</node>
+    <node x="7695.673934388797" y="5250.5">cz.cvut.fel.omo.SmartHome.EmergencyCenterVisitor</node>
+    <node x="8776.728776274007" y="5642.0">cz.cvut.fel.omo.SmartHome.devices.weather.temperature.splitSystem.states.SplitSystemBrokenState</node>
+    <node x="3334.6010586722086" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.common.Projector</node>
+    <node x="11846.0975381117" y="5630.5">cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.states.InsideBlindsDownState</node>
+    <node x="6044.6097205599035" y="4233.0">cz.cvut.fel.omo.SmartHome.sensor.SensorController</node>
+    <node x="13881.985965774264" y="8329.5">cz.cvut.fel.omo.SmartHome.HouseSize</node>
+    <node x="4493.645360570186" y="304.0">cz.cvut.fel.omo.SmartHome.devices.action.states.AbstractActionDeviceState</node>
+    <node x="7199.309262120451" y="6241.0">cz.cvut.fel.omo.SmartHome.home.House</node>
+    <node x="1507.8955749174256" y="8351.5">cz.cvut.fel.omo.SmartHome.devices.action.sport.Bicycle</node>
+    <node x="13304.928585990388" y="7579.5">cz.cvut.fel.omo.SmartHome.devices.action.states.SportDeviceNotUsedState</node>
+    <node x="11966.8475381117" y="5888.0">cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.states.InsideBlindsUpState</node>
+    <node x="6617.854444289933" y="5609.0">cz.cvut.fel.omo.SmartHome.report.ReportGenerator</node>
+    <node x="3454.4551493855115" y="7243.5">cz.cvut.fel.omo.SmartHome.devices.action.states.ActionDeviceOnState</node>
+    <node x="2677.297867182847" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.common.Turntable</node>
+    <node x="4132.905149385512" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.sport.RowingMachine</node>
+    <node x="279.0" y="7546.0">cz.cvut.fel.omo.SmartHome.devices.weather.event.SeasonEnum</node>
+    <node x="11994.295854877091" y="7210.0">cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.InsideBlinds</node>
+    <node x="0.0" y="9589.0">cz.cvut.fel.omo.SmartHome.SmartHomeApplicationTests</node>
+    <node x="10348.056221122779" y="4763.0">cz.cvut.fel.omo.SmartHome.report.Event</node>
+    <node x="3952.1998010600437" y="1154.0">cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface</node>
+    <node x="4456.905149385512" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.pet.AutomaticFeeder</node>
+    <node x="5762.771657580428" y="7265.5">cz.cvut.fel.omo.SmartHome.devices.alarms.GasAlarm</node>
+    <node x="9164.645442940675" y="3566.0">cz.cvut.fel.omo.SmartHome.devices.Instruction</node>
+    <node x="2733.771609570682" y="7579.5">cz.cvut.fel.omo.SmartHome.devices.action.states.ActionDeviceOffState</node>
+    <node x="9339.869170596734" y="6582.5">cz.cvut.fel.omo.SmartHome.devices.weather.temperature.splitSystem.SplitSystem</node>
+    <node x="497.0" y="7578.5">cz.cvut.fel.omo.SmartHome.factory.BeanFactory</node>
+    <node x="3843.266789141613" y="204.0">cz.cvut.fel.omo.SmartHome.devices.Consumption</node>
+    <node x="5274.271657580428" y="6638.0">cz.cvut.fel.omo.SmartHome.devices.alarms.AlarmListener</node>
+    <node x="2389.297867182847" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.common.GasStove</node>
+    <node x="203.62104226542033" y="8142.0">cz.cvut.fel.omo.SmartHome.world.World</node>
+    <node x="7837.717249971107" y="5030.0">cz.cvut.fel.omo.SmartHome.devices.alarms.events.GasAlarmEvent</node>
+    <node x="10761.5662881117" y="5030.0">cz.cvut.fel.omo.SmartHome.report.WeatherEvent</node>
+    <node x="13452.185965774263" y="7243.5">cz.cvut.fel.omo.SmartHome.devices.action.states.SportDeviceUsedState</node>
+    <node x="3791.8248010600432" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.sport.BikeTrainer</node>
+    <node x="6252.924392828249" y="5832.0">cz.cvut.fel.omo.SmartHome.report.ConsumptionReport</node>
+    <node x="11146.2225381117" y="5642.0">cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.states.OutsideBlindsBrokenState</node>
+    <node x="5172.771657580428" y="7265.5">cz.cvut.fel.omo.SmartHome.devices.alarms.FireAlarm</node>
+    <node x="12693.1867381643" y="1076.0">cz.cvut.fel.omo.SmartHome.devices.weather.WeatherDeviceSetUp</node>
+    <node x="10470.6867381643" y="5228.0">cz.cvut.fel.omo.SmartHome.report.EventsKeeper</node>
+    <node x="11673.68474376598" y="6627.0">cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.states.InsideBlindsBrokenState</node>
+    <node x="12326.93474376598" y="6582.5">cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.OutsideBlinds</node>
+    <node x="8208.05365550106" y="5865.0">cz.cvut.fel.omo.SmartHome.ControlPanel</node>
+    <node x="5460.771657580428" y="7265.5">cz.cvut.fel.omo.SmartHome.devices.alarms.WaterAlarm</node>
+    <node x="6872.54799267703" y="5272.0">cz.cvut.fel.omo.SmartHome.report.HouseConfigurationReport</node>
+    <node x="12937.145341592066" y="8341.0">cz.cvut.fel.omo.SmartHome.devices.action.states.ActionDeviceBusyState</node>
+    <node x="873.8955749174256" y="8351.5">cz.cvut.fel.omo.SmartHome.devices.action.pet.MechanicalToy</node>
+    <node x="1783.8955749174256" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.common.Microwave</node>
+    <node x="7283.931535685392" y="5030.0">cz.cvut.fel.omo.SmartHome.devices.alarms.events.FireAlarmEvent</node>
+    <node x="8362.507822167727" y="1153.5">cz.cvut.fel.omo.SmartHome.alive.NameGenerator</node>
+    <node x="4787.905149385512" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.common.TV</node>
+    <node x="8947.497375724939" y="5888.0">cz.cvut.fel.omo.SmartHome.devices.weather.temperature.splitSystem.states.SplitSystemOnState</node>
+    <node x="8569.507822167727" y="1120.5">cz.cvut.fel.omo.SmartHome.alive.Role</node>
+    <node x="13551.971680059978" y="8341.0">cz.cvut.fel.omo.SmartHome.devices.action.states.SportDeviceBrokenState</node>
+    <node x="10093.369170596734" y="6627.0">cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.states.OutsideBlindsDownState</node>
+    <node x="10206.566288111702" y="5030.0">cz.cvut.fel.omo.SmartHome.report.InteractionEvent</node>
+    <node x="0.0" y="2369.0">cz.cvut.fel.omo.SmartHome.devices.weather.event.WeatherEvent</node>
+    <node x="10501.5662881117" y="5030.0">cz.cvut.fel.omo.SmartHome.report.RepairEvent</node>
+    <node x="11161.747593443724" y="1165.0">cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState</node>
+    <node x="8285.553318922695" y="2094.0">cz.cvut.fel.omo.SmartHome.alive.Creature</node>
+    <node x="2080.8955749174256" y="8329.5">cz.cvut.fel.omo.SmartHome.devices.action.sport.Treadmill</node>
+    <node x="442.5" y="7231.5">cz.cvut.fel.omo.SmartHome.world.AlarmEventsPublisher</node>
+    <node x="8655.821578597734" y="9489.0">cz.cvut.fel.omo.SmartHome.SmartHomeApplication</node>
+    <node x="4995.434392005543" y="3379.0">cz.cvut.fel.omo.SmartHome.home.Floor</node>
+    <node x="8986.645442940675" y="282.0">cz.cvut.fel.omo.SmartHome.util.RandomUtil</node>
+    <node x="8164.229982775893" y="5642.0">cz.cvut.fel.omo.SmartHome.HomeStrategy</node>
+    <node x="8445.05365550106" y="5866.0">cz.cvut.fel.omo.SmartHome.HomeNormalStrategy</node>
+    <node x="7549.931535685392" y="5030.0">cz.cvut.fel.omo.SmartHome.devices.alarms.events.WaterAlarmEvent</node>
+    <node x="6307.6097205599035" y="5261.0">cz.cvut.fel.omo.SmartHome.report.EventReport</node>
+    <node x="6563.198202352059" y="5041.5">cz.cvut.fel.omo.SmartHome.report.AbstractReport</node>
+    <node x="12404.541982556146" y="5642.0">cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.states.OutsideBlindsOffState</node>
+    <node x="9295.117176198411" y="5642.0">cz.cvut.fel.omo.SmartHome.devices.weather.temperature.splitSystem.states.SplitSystemOffState</node>
+    <node x="3943.766789141613" y="0.0">cz.cvut.fel.omo.SmartHome.devices.ConsumptionType</node>
+    <node x="3220.752072829556" y="248.5">cz.cvut.fel.omo.SmartHome.devices.ClassificationEnum</node>
+    <node x="7854.986434388797" y="5854.0">cz.cvut.fel.omo.SmartHome.HomeEmergencyStrategy</node>
+    <node x="9301.145442940675" y="44.5">cz.cvut.fel.omo.SmartHome.devices.AbstractState</node>
+    <node x="7660.048934388797" y="5641.5">cz.cvut.fel.omo.SmartHome.devices.alarms.AbstractAlarmEvent</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.alarms.WaterAlarm" target="cz.cvut.fel.omo.SmartHome.devices.alarms.AlarmListener">
+      <point x="-93.66666666666674" y="-27.5" />
+      <point x="5507.604990913761" y="7120.0" />
+      <point x="5371.771657580428" y="7120.0" />
+      <point x="0.0" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.states.OutsideBlindsUpState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="42.0" y="-38.5" />
+      <point x="11088.30974376598" y="5792.0" />
+      <point x="11135.7225381117" y="5792.0" />
+      <point x="11135.7225381117" y="2044.0" />
+      <point x="11299.560093443724" y="2044.0" />
+      <point x="-9.1875" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.report.InteractionEvent" target="cz.cvut.fel.omo.SmartHome.report.Event">
+      <point x="87.66666666666606" y="-39.0" />
+      <point x="10425.732954778367" y="5010.0" />
+      <point x="10442.472887789445" y="5010.0" />
+      <point x="-8.58333333333394" y="83.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.temperature.splitSystem.SplitSystem" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDevice">
+      <point x="84.44444444444525" y="-83.0" />
+      <point x="9614.31361504118" y="6201.0" />
+      <point x="9798.77301675058" y="6201.0" />
+      <point x="9798.77301675058" y="3339.0" />
+      <point x="9860.174868506103" y="3339.0" />
+      <point x="-42.69230769230853" y="193.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.alarms.events.FireAlarmEvent" target="cz.cvut.fel.omo.SmartHome.devices.alarms.AbstractAlarmEvent">
+      <point x="35.14285714285734" y="39.0" />
+      <point x="7442.07439282825" y="5178.0" />
+      <point x="7569.402505817368" y="5178.0" />
+      <point x="7569.402505817368" y="5499.0" />
+      <point x="7706.173934388797" y="5499.0" />
+      <point x="-76.875" y="-39.0" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.alarms.events.WaterAlarmEvent" target="cz.cvut.fel.omo.SmartHome.devices.alarms.AbstractAlarmEvent">
+      <point x="0.0" y="39.0" />
+      <point x="7672.931535685392" y="5198.0" />
+      <point x="7675.78107724594" y="5198.0" />
+      <point x="7675.78107724594" y="5479.0" />
+      <point x="7767.673934388797" y="5479.0" />
+      <point x="-15.375" y="-39.0" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.CoffeeMachine" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-45.0" y="-61.0" />
+      <point x="3119.6010586722086" y="8032.0" />
+      <point x="3166.922867182847" y="8032.0" />
+      <point x="3166.922867182847" y="3049.0" />
+      <point x="3294.522623728029" y="3049.0" />
+      <point x="3294.522623728029" y="1794.0" />
+      <point x="4042.1998010600437" y="1794.0" />
+      <point x="-40.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.Projector" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-40.19999999999982" y="-61.0" />
+      <point x="3428.401058672209" y="7972.0" />
+      <point x="3371.1821981961143" y="7972.0" />
+      <point x="3371.1821981961143" y="3069.0" />
+      <point x="3487.7302643189178" y="3069.0" />
+      <point x="3487.7302643189178" y="1804.0" />
+      <point x="4062.1998010600437" y="1804.0" />
+      <point x="-20.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.temperature.splitSystem.states.SplitSystemOffState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="-36.75" y="-38.5" />
+      <point x="9405.367176198411" y="5529.0" />
+      <point x="9472.574170994585" y="5529.0" />
+      <point x="9472.574170994585" y="3229.0" />
+      <point x="9577.939104005662" y="3229.0" />
+      <point x="9577.939104005662" y="1994.0" />
+      <point x="11207.685093443724" y="1994.0" />
+      <point x="-101.0625" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.TV" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-34.94999999999982" y="-61.0" />
+      <point x="4869.455149385512" y="7802.0" />
+      <point x="4787.007198196114" y="7802.0" />
+      <point x="4787.007198196114" y="3059.0" />
+      <point x="4747.482198196114" y="3059.0" />
+      <point x="4747.482198196114" y="1804.0" />
+      <point x="4142.199801060044" y="1804.0" />
+      <point x="60.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.Microwave" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="-41.55000000000018" y="-61.0" />
+      <point x="1880.8455749174254" y="7972.0" />
+      <point x="1851.7726237280294" y="7972.0" />
+      <point x="1851.7726237280294" y="2979.0" />
+      <point x="1981.8476237280283" y="2979.0" />
+      <point x="1981.8476237280283" y="1894.0" />
+      <point x="4414.2673045790925" y="1894.0" />
+      <point x="-113.70212765957422" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.states.OutsideBlindsOffState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="110.25" y="-38.5" />
+      <point x="12661.791982556146" y="5589.0" />
+      <point x="12645.670854877091" y="5589.0" />
+      <point x="12645.670854877091" y="3329.0" />
+      <point x="12972.347452450016" y="3329.0" />
+      <point x="12972.347452450016" y="1474.0" />
+      <point x="11428.185093443724" y="1474.0" />
+      <point x="119.4375" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.alarms.FireAlarm" target="cz.cvut.fel.omo.SmartHome.devices.alarms.AlarmListener">
+      <point x="0.0" y="-27.5" />
+      <point x="-65.0" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.sport.RowingMachine" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="76.0" y="-61.0" />
+      <point x="4360.905149385512" y="8092.0" />
+      <point x="4429.054006706752" y="8092.0" />
+      <point x="4429.054006706752" y="3079.0" />
+      <point x="4500.999801060043" y="3079.0" />
+      <point x="4500.999801060043" y="2074.0" />
+      <point x="4542.182198196115" y="2074.0" />
+      <point x="14.212765957447118" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.states.OutsideBlindsBrokenState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="110.25" y="-38.5" />
+      <point x="11403.4725381117" y="5589.0" />
+      <point x="11368.4725381117" y="5589.0" />
+      <point x="11368.4725381117" y="2044.0" />
+      <point x="11317.935093443724" y="2044.0" />
+      <point x="9.1875" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.HomeNormalStrategy" target="cz.cvut.fel.omo.SmartHome.HomeStrategy">
+      <point x="-112.5" y="-60.5" />
+      <point x="8467.55365550106" y="5802.0" />
+      <point x="8354.104982775894" y="5802.0" />
+      <point x="81.375" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.OutsideBlinds" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDevice">
+      <point x="-43.55555555555475" y="-83.0" />
+      <point x="12479.379188210425" y="6161.0" />
+      <point x="12394.041982556146" y="6161.0" />
+      <point x="12394.041982556146" y="3089.0" />
+      <point x="10082.174868506103" y="3089.0" />
+      <point x="179.30769230769147" y="193.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.report.RepairEvent" target="cz.cvut.fel.omo.SmartHome.report.Event">
+      <point x="-80.0" y="-39.0" />
+      <point x="10541.5662881117" y="4990.0" />
+      <point x="10493.972887789445" y="4990.0" />
+      <point x="42.91666666666606" y="83.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.states.ActionDeviceOffState" target="cz.cvut.fel.omo.SmartHome.devices.action.states.AbstractActionDeviceState">
+      <point x="-112.80000000000018" y="-49.5" />
+      <point x="2761.9716095706817" y="7456.0" />
+      <point x="2793.521609570682" y="7456.0" />
+      <point x="2793.521609570682" y="3009.0" />
+      <point x="2665.571609570682" y="3009.0" />
+      <point x="2665.571609570682" y="901.0" />
+      <point x="4506.463542388368" y="901.0" />
+      <point x="-128.18181818181802" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.pet.AutomaticFeeder" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-46.649999999999636" y="-61.0" />
+      <point x="4565.755149385513" y="8112.0" />
+      <point x="4560.462583494904" y="8112.0" />
+      <point x="4560.462583494904" y="3059.0" />
+      <point x="4440.054006706752" y="3059.0" />
+      <point x="4440.054006706752" y="1814.0" />
+      <point x="4122.199801060044" y="1814.0" />
+      <point x="40.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.states.InsideBlindsOffState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="110.25" y="-38.5" />
+      <point x="11766.3475381117" y="5589.0" />
+      <point x="11721.9725381117" y="5589.0" />
+      <point x="11721.9725381117" y="3239.0" />
+      <point x="12231.93474376598" y="3239.0" />
+      <point x="12231.93474376598" y="1544.0" />
+      <point x="11336.310093443724" y="1544.0" />
+      <point x="27.5625" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.alarms.events.GasAlarmEvent" target="cz.cvut.fel.omo.SmartHome.devices.alarms.AbstractAlarmEvent">
+      <point x="49.19999999999982" y="39.0" />
+      <point x="8009.917249971107" y="5208.0" />
+      <point x="8020.923934388797" y="5208.0" />
+      <point x="8020.923934388797" y="5519.0" />
+      <point x="7859.923934388797" y="5519.0" />
+      <point x="76.875" y="-39.0" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.states.ActionDeviceOnState" target="cz.cvut.fel.omo.SmartHome.devices.action.states.AbstractActionDeviceState">
+      <point x="-112.80000000000018" y="-49.5" />
+      <point x="3482.6551493855113" y="7110.0" />
+      <point x="3555.9031074828113" y="7110.0" />
+      <point x="3555.9031074828113" y="3059.0" />
+      <point x="3448.8790067067525" y="3059.0" />
+      <point x="3448.8790067067525" y="911.0" />
+      <point x="4532.09990602473" y="911.0" />
+      <point x="-102.54545454545496" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.Microwave" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-69.25" y="-61.0" />
+      <point x="1853.1455749174256" y="7982.0" />
+      <point x="1840.7726237280294" y="7982.0" />
+      <point x="1840.7726237280294" y="2959.0" />
+      <point x="1963.7412407493048" y="2959.0" />
+      <point x="1963.7412407493048" y="1754.0" />
+      <point x="3962.1998010600437" y="1754.0" />
+      <point x="-120.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.Turntable" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-67.5" y="-61.0" />
+      <point x="2744.797867182847" y="7812.0" />
+      <point x="2578.821609570682" y="7812.0" />
+      <point x="2578.821609570682" y="3019.0" />
+      <point x="2727.822867182847" y="3019.0" />
+      <point x="2727.822867182847" y="1784.0" />
+      <point x="4022.1998010600437" y="1784.0" />
+      <point x="-60.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.temperature.splitSystem.states.SplitSystemBrokenState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="-110.25" y="-38.5" />
+      <point x="8813.478776274007" y="5529.0" />
+      <point x="8860.122375724939" y="5529.0" />
+      <point x="8860.122375724939" y="3209.0" />
+      <point x="9239.285709456122" y="3209.0" />
+      <point x="9239.285709456122" y="1974.0" />
+      <point x="11170.935093443724" y="1974.0" />
+      <point x="-137.8125" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.wind.outsideBlinds.states.OutsideBlindsDownState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="-18.375" y="-38.5" />
+      <point x="10221.994170596734" y="6191.0" />
+      <point x="10162.867176198411" y="6191.0" />
+      <point x="10162.867176198411" y="2034.0" />
+      <point x="11281.185093443724" y="2034.0" />
+      <point x="-27.5625" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.pet.AutomaticFeeder" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="-15.549999999999272" y="-61.0" />
+      <point x="4596.855149385513" y="8112.0" />
+      <point x="4613.2875834949045" y="8112.0" />
+      <point x="4613.2875834949045" y="2074.0" />
+      <point x="4549.288581174838" y="2074.0" />
+      <point x="21.319148936170677" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.report.ConsumptionReport" target="cz.cvut.fel.omo.SmartHome.report.AbstractReport">
+      <point x="31.42857142857156" y="-94.5" />
+      <point x="6394.352964256821" y="5782.0" />
+      <point x="6526.1097205599035" y="5782.0" />
+      <point x="6526.1097205599035" y="5158.0" />
+      <point x="6615.198202352059" y="5158.0" />
+      <point x="-52.0" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDevice" target="cz.cvut.fel.omo.SmartHome.devices.AbstractDevice">
+      <point x="-76.84615384615427" y="193.5" />
+      <point x="9826.021022352259" y="3319.0" />
+      <point x="9448.647437338996" y="3319.0" />
+      <point x="9448.647437338996" y="4026.0" />
+      <point x="9413.82871465995" y="4026.0" />
+      <point x="128.33333333333394" y="-248.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.alarms.GasAlarm" target="cz.cvut.fel.omo.SmartHome.devices.alarms.AlarmListener">
+      <point x="-89.33333333333348" y="-27.5" />
+      <point x="5807.438324247094" y="7110.0" />
+      <point x="5436.771657580428" y="7110.0" />
+      <point x="65.0" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.Projector" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="13.400000000000091" y="-61.0" />
+      <point x="3482.0010586722087" y="7952.0" />
+      <point x="3421.9551493855115" y="7952.0" />
+      <point x="3421.9551493855115" y="3099.0" />
+      <point x="3528.9792501615702" y="3099.0" />
+      <point x="3528.9792501615702" y="2014.0" />
+      <point x="4499.543900323773" y="2014.0" />
+      <point x="-28.425531914893327" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.TV" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="-11.649999999999636" y="-61.0" />
+      <point x="4892.755149385513" y="7792.0" />
+      <point x="4856.824801060042" y="7792.0" />
+      <point x="4856.824801060042" y="1794.0" />
+      <point x="4563.501347132284" y="1794.0" />
+      <point x="35.531914893616886" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice" target="cz.cvut.fel.omo.SmartHome.devices.AbstractDevice">
+      <point x="127.91489361702133" y="171.5" />
+      <point x="4655.884325855688" y="1584.0" />
+      <point x="9363.145442940675" y="1584.0" />
+      <point x="9363.145442940675" y="3966.0" />
+      <point x="9273.82871465995" y="3966.0" />
+      <point x="-11.66666666666697" y="-248.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.alarms.AlarmListener" target="cz.cvut.fel.omo.SmartHome.devices.alarms.AbstractAlarmEvent">
+      <point x="0.0" y="-27.5" />
+      <point x="5371.771657580428" y="6221.0" />
+      <point x="6483.424392828249" y="6221.0" />
+      <point x="6483.424392828249" y="5812.0" />
+      <point x="7690.798934388797" y="5812.0" />
+      <point x="-92.25" y="39.0" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.report.ActivityAndUsageReport" target="cz.cvut.fel.omo.SmartHome.report.AbstractReport">
+      <point x="-96.80000000000018" y="-83.5" />
+      <point x="7176.74799267703" y="5128.0" />
+      <point x="6753.864869018726" y="5128.0" />
+      <point x="86.66666666666697" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.GasStove" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-67.0" y="-61.0" />
+      <point x="2456.297867182847" y="7882.0" />
+      <point x="2325.2258152173904" y="7882.0" />
+      <point x="2325.2258152173904" y="2999.0" />
+      <point x="2446.169432238667" y="2999.0" />
+      <point x="2446.169432238667" y="1774.0" />
+      <point x="4002.1998010600437" y="1774.0" />
+      <point x="-80.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.Electromobile" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="24.5" y="-39.0" />
+      <point x="1364.3955749174256" y="7972.0" />
+      <point x="1312.2978671828469" y="7972.0" />
+      <point x="1312.2978671828469" y="3359.0" />
+      <point x="1487.192481884058" y="3359.0" />
+      <point x="1487.192481884058" y="1854.0" />
+      <point x="4385.841772664198" y="1854.0" />
+      <point x="-142.12765957446845" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState" target="cz.cvut.fel.omo.SmartHome.devices.AbstractState">
+      <point x="0.0" y="-27.5" />
+      <point x="11308.747593443724" y="184.0" />
+      <point x="9477.812109607341" y="184.0" />
+      <point x="70.66666666666606" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.sport.BikeTrainer" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="13.949999999999818" y="-61.0" />
+      <point x="3945.274801060043" y="8072.0" />
+      <point x="4066.455149385512" y="8072.0" />
+      <point x="4066.455149385512" y="1814.0" />
+      <point x="4082.1998010600437" y="1814.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.sport.Treadmill" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="-40.5" y="-61.0" />
+      <point x="2175.3955749174256" y="7942.0" />
+      <point x="2045.9008152173901" y="7942.0" />
+      <point x="2045.9008152173901" y="2999.0" />
+      <point x="2173.850815217391" y="2999.0" />
+      <point x="2173.850815217391" y="1914.0" />
+      <point x="4428.48007053654" y="1914.0" />
+      <point x="-99.48936170212801" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.states.AbstractActionDeviceState" target="cz.cvut.fel.omo.SmartHome.devices.AbstractState">
+      <point x="0.0" y="-38.5" />
+      <point x="4634.645360570186" y="184.0" />
+      <point x="9336.478776274009" y="184.0" />
+      <point x="-70.66666666666606" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.HomeEmergencyStrategy" target="cz.cvut.fel.omo.SmartHome.HomeStrategy">
+      <point x="93.19999999999982" y="-72.5" />
+      <point x="8064.686434388797" y="5812.0" />
+      <point x="8191.354982775893" y="5812.0" />
+      <point x="-81.375" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.report.WeatherEvent" target="cz.cvut.fel.omo.SmartHome.report.Event">
+      <point x="-83.66666666666606" y="-39.0" />
+      <point x="10803.399621445034" y="4970.0" />
+      <point x="10528.306221122779" y="4970.0" />
+      <point x="77.25" y="83.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.GasStove" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="-13.399999999999636" y="-61.0" />
+      <point x="2509.897867182847" y="7862.0" />
+      <point x="2412.271609570682" y="7862.0" />
+      <point x="2412.271609570682" y="3029.0" />
+      <point x="2738.822867182847" y="3029.0" />
+      <point x="2738.822867182847" y="1944.0" />
+      <point x="4449.79921947271" y="1944.0" />
+      <point x="-78.17021276595733" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.states.SportDeviceNotUsedState" target="cz.cvut.fel.omo.SmartHome.devices.action.states.AbstractActionDeviceState">
+      <point x="40.285714285713766" y="-49.5" />
+      <point x="13486.214300276102" y="7516.0" />
+      <point x="13441.685965774263" y="7516.0" />
+      <point x="13441.685965774263" y="531.0" />
+      <point x="4711.554451479276" y="531.0" />
+      <point x="76.90909090909099" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.Turntable" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="-40.5" y="-61.0" />
+      <point x="2771.797867182847" y="7802.0" />
+      <point x="2598.874801060044" y="7802.0" />
+      <point x="2598.874801060044" y="3039.0" />
+      <point x="2745.9292501615705" y="3039.0" />
+      <point x="2745.9292501615705" y="1954.0" />
+      <point x="4456.905602451434" y="1954.0" />
+      <point x="-71.06382978723377" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.sport.Bicycle" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="21.33333333333303" y="-39.0" />
+      <point x="1657.2289082507586" y="7982.0" />
+      <point x="1626.8510586722095" y="7982.0" />
+      <point x="1626.8510586722095" y="2969.0" />
+      <point x="1974.7412407493048" y="2969.0" />
+      <point x="1974.7412407493048" y="1884.0" />
+      <point x="4407.160921600369" y="1884.0" />
+      <point x="-120.80851063829778" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.states.ActionDeviceBrokenState" target="cz.cvut.fel.omo.SmartHome.devices.action.states.AbstractActionDeviceState">
+      <point x="-62.66666666666697" y="-49.5" />
+      <point x="3700.7884827188445" y="7486.0" />
+      <point x="3760.9551493855115" y="7486.0" />
+      <point x="3760.9551493855115" y="921.0" />
+      <point x="4557.736269661094" y="921.0" />
+      <point x="-76.90909090909099" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.report.EventReport" target="cz.cvut.fel.omo.SmartHome.report.AbstractReport">
+      <point x="78.0" y="-72.5" />
+      <point x="6489.6097205599035" y="5148.0" />
+      <point x="6580.531535685392" y="5148.0" />
+      <point x="-86.66666666666697" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.states.InsideBlindsUpState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="84.0" y="-38.5" />
+      <point x="12197.8475381117" y="5812.0" />
+      <point x="12229.3475381117" y="5812.0" />
+      <point x="12229.3475381117" y="3269.0" />
+      <point x="12553.7179881643" y="3269.0" />
+      <point x="12553.7179881643" y="1514.0" />
+      <point x="11391.435093443724" y="1514.0" />
+      <point x="82.6875" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.states.ActionDeviceBusyState" target="cz.cvut.fel.omo.SmartHome.devices.action.states.AbstractActionDeviceState">
+      <point x="123.375" y="-49.5" />
+      <point x="13201.520341592066" y="8112.0" />
+      <point x="13294.428585990388" y="8112.0" />
+      <point x="13294.428585990388" y="541.0" />
+      <point x="4685.918087842912" y="541.0" />
+      <point x="51.272727272727025" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.states.InsideBlindsDownState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="58.79999999999927" y="-50.0" />
+      <point x="12051.23474376598" y="3259.0" />
+      <point x="12463.9679881643" y="3259.0" />
+      <point x="12463.9679881643" y="1524.0" />
+      <point x="11373.060093443724" y="1524.0" />
+      <point x="64.3125" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.common.CoffeeMachine" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="-15.0" y="-61.0" />
+      <point x="3149.6010586722086" y="8042.0" />
+      <point x="3186.9760586722086" y="8042.0" />
+      <point x="3186.9760586722086" y="3069.0" />
+      <point x="3312.6290067067525" y="3069.0" />
+      <point x="3312.6290067067525" y="1984.0" />
+      <point x="4478.224751387603" y="1984.0" />
+      <point x="-49.744680851064004" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.sport.BikeTrainer" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="69.75" y="-61.0" />
+      <point x="4001.0748010600432" y="8092.0" />
+      <point x="4099.455149385512" y="8092.0" />
+      <point x="4099.455149385512" y="3079.0" />
+      <point x="4163.449801060044" y="3079.0" />
+      <point x="4163.449801060044" y="2054.0" />
+      <point x="4527.969432238668" y="2054.0" />
+      <point x="0.0" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.sport.Treadmill" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-67.5" y="-61.0" />
+      <point x="2148.3955749174256" y="7952.0" />
+      <point x="2034.9008152173901" y="7952.0" />
+      <point x="2034.9008152173901" y="2979.0" />
+      <point x="2155.7444322386673" y="2979.0" />
+      <point x="2155.7444322386673" y="1764.0" />
+      <point x="3982.1998010600437" y="1764.0" />
+      <point x="-100.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.report.HouseConfigurationReport" target="cz.cvut.fel.omo.SmartHome.report.AbstractReport">
+      <point x="-104.0" y="-61.5" />
+      <point x="6898.54799267703" y="5138.0" />
+      <point x="6719.198202352059" y="5138.0" />
+      <point x="52.0" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.InsideBlinds" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDevice">
+      <point x="-127.33333333333394" y="-83.0" />
+      <point x="12057.962521543757" y="7180.0" />
+      <point x="11415.583649222812" y="7180.0" />
+      <point x="11415.583649222812" y="5812.0" />
+      <point x="11487.5975381117" y="5812.0" />
+      <point x="11487.5975381117" y="3149.0" />
+      <point x="9979.713330044568" y="3149.0" />
+      <point x="76.84615384615427" y="193.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.temperature.splitSystem.states.SplitSystemOnState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="0.0" y="-38.5" />
+      <point x="9094.497375724939" y="5802.0" />
+      <point x="9092.228776274007" y="5802.0" />
+      <point x="9092.228776274007" y="3219.0" />
+      <point x="9524.355770672328" y="3219.0" />
+      <point x="9524.355770672328" y="1984.0" />
+      <point x="11189.310093443724" y="1984.0" />
+      <point x="-119.4375" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.sun.insideBlinds.states.InsideBlindsBrokenState" target="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDeviceState">
+      <point x="0.0" y="-38.5" />
+      <point x="11820.68474376598" y="6221.0" />
+      <point x="11835.5975381117" y="6221.0" />
+      <point x="11835.5975381117" y="3249.0" />
+      <point x="12374.2179881643" y="3249.0" />
+      <point x="12374.2179881643" y="1534.0" />
+      <point x="11354.685093443724" y="1534.0" />
+      <point x="45.9375" y="27.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.states.SportDeviceUsedState" target="cz.cvut.fel.omo.SmartHome.devices.action.states.AbstractActionDeviceState">
+      <point x="112.80000000000018" y="-49.5" />
+      <point x="13705.985965774264" y="7170.0" />
+      <point x="13592.485965774264" y="7170.0" />
+      <point x="13592.485965774264" y="521.0" />
+      <point x="4737.19081511564" y="521.0" />
+      <point x="102.54545454545405" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.states.SportDeviceBrokenState" target="cz.cvut.fel.omo.SmartHome.devices.action.states.AbstractActionDeviceState">
+      <point x="98.69999999999982" y="-49.5" />
+      <point x="13791.671680059979" y="8122.0" />
+      <point x="13799.685965774263" y="8122.0" />
+      <point x="13799.685965774263" y="511.0" />
+      <point x="4762.827178752004" y="511.0" />
+      <point x="128.18181818181802" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.weather.AbstractWeatherDevice" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-185.0" y="-193.5" />
+      <point x="9717.867176198411" y="1574.0" />
+      <point x="4202.199801060044" y="1574.0" />
+      <point x="120.0" y="38.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.pet.MechanicalToy" target="cz.cvut.fel.omo.SmartHome.devices.action.AbstractActionDevice">
+      <point x="24.91666666666606" y="-39.0" />
+      <point x="1048.3122415840917" y="8112.0" />
+      <point x="989.0478671828469" y="8112.0" />
+      <point x="989.0478671828469" y="3339.0" />
+      <point x="1469.0860989053344" y="3339.0" />
+      <point x="1469.0860989053344" y="1834.0" />
+      <point x="4371.629006706753" y="1834.0" />
+      <point x="-156.34042553191466" y="171.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.SmartHome.devices.action.sport.RowingMachine" target="cz.cvut.fel.omo.SmartHome.devices.TurnableDevicesInterface">
+      <point x="-45.600000000000364" y="-61.0" />
+      <point x="4239.305149385512" y="8112.0" />
+      <point x="4225.909392005542" y="8112.0" />
+      <point x="4225.909392005542" y="3059.0" />
+      <point x="4097.699801060044" y="3059.0" />
+      <point x="4097.699801060044" y="1814.0" />
+      <point x="4102.199801060044" y="1814.0" />
+      <point x="20.0" y="38.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.07036423841059603" x="7033.5" y="4822.0" />
+  <SelectedNodes>
+    <node>cz.cvut.fel.omo.SmartHome.devices.action.common.Electromobile</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
